@@ -1,0 +1,148 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h2 .Web {
+  text-decoration: line-through;
+}
+.top-cloud {
+  position: absolute;
+  right: 225px;
+  top: 71px;
+}
+
+.buttom-cloud {
+  position: absolute;
+  left: 257px;
+  top: 372px;
+}
+
+.profile {
+  margin-top: 50px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+p {
+  line-height: 2;
+  font-weight: 900;
+}
+
+hr {
+  border: dotted #17e0e0 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto 50px auto;
+}
+
+.typing-cat {
+  float: left;
+}
+
+.coding {
+  width: 79%;
+}
+
+.parent {
+  margin-left: 36px;
+}
+
+.coding h3{
+    font-family:sans-serif;
+    font-weight: 700;
+    color: rgb(124, 124, 205);
+}
+.coding p{
+  font-size: 20px;
+}
+
+
+.bean-image{
+  float: left;
+}
+
+.food-challange h3{
+  font-family:sans-serif;
+  font-weight: 700;
+  color: rgb(124, 124, 205);
+}
+
+.food-challange p{
+  font-size: 20px;
+}
+
+.food-challange{
+  width: 79%;
+}
+
+.contact h3{
+  font-size: larger;
+}
+
+.message{
+  font-size: large;
+}
+button{
+  border-radius: 8px;
+font-family: "Montserrat", sans-serif;
+color: #ffffff;
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+background-color:#11cdd4 ;
+}
+
+button:hover {
+	background: #03fddc;
+	
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+  margin-top: 50px;
+  min-height: 15vh;
+}
+
+.c {
+  color:rgb(14, 163, 226);
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.c:hover{
+  
+color: white;
+}
+
+.copyright{
+  color: white;
+}
+
